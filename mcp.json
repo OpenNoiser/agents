@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "opennoiser-product": {
+      "type": "streamable-http",
+      "url": "https://opennoiser.com/mcp"
+    },
+    "opennoiser-docs": {
+      "type": "streamable-http",
+      "url": "https://opennoiser.com/mcp/docs"
+    }
+  }
+}

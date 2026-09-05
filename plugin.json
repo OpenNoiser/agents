@@ -1,0 +1,20 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "opennoiser",
+  "version": "1.0.0",
+  "description": "OpenNoiser compatibility, microphone setup, troubleshooting and current plan information through public read-only tools.",
+  "author": {
+    "name": "OpenNoiser",
+    "email": "support@opennoiser.com",
+    "url": "https://opennoiser.com"
+  },
+  "homepage": "https://opennoiser.com/agents",
+  "license": "MIT",
+  "keywords": [
+    "macos",
+    "microphone",
+    "noise-suppression",
+    "documentation"
+  ],
+  "repository": "https://github.com/OpenNoiser/agents"
+}
